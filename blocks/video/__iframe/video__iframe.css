@@ -1,0 +1,10 @@
+.video__iframe {
+  position: relative;
+  width: 515px;
+  height: 289.6875px;
+  margin-right: 20px;
+}
+
+.video__iframe:nth-of-type(2) {
+  margin: 0;
+}

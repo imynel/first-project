@@ -1,0 +1,5 @@
+.link_opacity:hover {
+  opacity: 0.6;
+  font-size: 1.01em;
+  transition: opacity 0.3s linear, font-size 0.3s linear;
+}
